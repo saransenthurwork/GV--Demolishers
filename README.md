@@ -80,4 +80,4 @@ src/
 
 ## 📬 Contact
 
-Built and deployed by Saran
+Built and deployed by Saran Senthur & Aruna Dharini 
