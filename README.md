@@ -1,9 +1,9 @@
-# GV--Demolishers
+# GV Demolishers Website
 Production-ready business website for GV Demolishers, built with Vite + React and deployed on Netlify with custom domain integration.
 
-# GV Demolishers Website
-
 ![Live Site](https://img.shields.io/badge/Live-gvdemolishers.com-green)
+
+
 🌐 Live Site: https://gvdemolishers.com
 
 ---
